@@ -1,0 +1,7 @@
+secp256k1.py
+setup.py
+secp256k1_transient.egg-info/PKG-INFO
+secp256k1_transient.egg-info/SOURCES.txt
+secp256k1_transient.egg-info/dependency_links.txt
+secp256k1_transient.egg-info/requires.txt
+secp256k1_transient.egg-info/top_level.txt

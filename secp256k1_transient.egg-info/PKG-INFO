@@ -1,0 +1,16 @@
+Metadata-Version: 1.1
+Name: secp256k1-transient
+Version: 0.11.1
+Summary: FFI bindings to secp256k1
+Home-page: https://github.com/chfast/secp256k1-py
+Author: Pawel Bylica
+Author-email: chfast@gmail.com
+License: MIT
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 3
+Classifier: Topic :: Software Development :: Libraries
+Classifier: Topic :: Security :: Cryptography
